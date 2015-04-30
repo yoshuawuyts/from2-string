@@ -8,7 +8,15 @@
     "test-cov": "standard && NODE_ENV=test istanbul cover test.js"
   },
   "repository": "yoshuawuyts/from2-string",
-  "keywords": [],
+  "keywords": [
+    "stream",
+    "string",
+    "from",
+    "source",
+    "from2",
+    "stream2",
+    "streams2"
+  ],
   "license": "MIT",
   "dependencies": {
     "from2": "^1.3.0"
