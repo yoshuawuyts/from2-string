@@ -1,6 +1,6 @@
 {
   "name": "from2-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create a stream from a string. Sugary wrapper around from2",
   "main": "index.js",
   "scripts": {
