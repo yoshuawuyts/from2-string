@@ -4,4 +4,4 @@ node_js:
 sudo: false
 language: node_js
 before_script: "npm i -g codecov.io"
-script: "npm run test-cov | codecov"
+script: "npm run test-cov-ci | codecov"
