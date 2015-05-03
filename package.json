@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "standard && NODE_ENV=test node test",
-    "test-cov": "standard && NODE_ENV=test istanbul cover test.js"
+    "test-cov": "standard && NODE_ENV=test covert test"
   },
   "repository": "yoshuawuyts/from2-string",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "concat-stream": "^1.4.8",
-    "istanbul": "^0.3.13",
+    "covert": "^1.0.1",
     "standard": "^3.7.2",
     "tape": "^4.0.0"
   },
